@@ -1,2 +1,3 @@
-# sql_coderhouse
-coderhouse course material and projects
+# SQL Coderhouse course
+
+Coderhouse course for SQL. Contains material and projects
